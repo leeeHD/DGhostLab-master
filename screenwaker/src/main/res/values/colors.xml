@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#18191d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ghostBlue">#627ef2</color>
+    <color name="app_name_tv">#6b84ec</color>
+</resources>
